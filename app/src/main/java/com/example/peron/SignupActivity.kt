@@ -6,6 +6,10 @@ import android.os.Bundle
 import android.view.View
 import androidx.appcompat.widget.AppCompatImageView
 import android.widget.Button
+import androidx.fragment.app.Fragment
+import androidx.fragment.app.activityViewModels
+import com.example.peron.viewmodels.UserViewModel
+import com.example.peron.viewmodels.UserViewModelFactory
 import com.google.android.material.textview.MaterialTextView
 
 class SignupActivity : AppCompatActivity() {
@@ -26,9 +30,10 @@ class SignupActivity : AppCompatActivity() {
         homepage = findViewById(R.id.sign_up_button)
 
         homepage.setOnClickListener {
-            val intent2 = Intent(this@SignupActivity, Homepage::class.java)
+            val intent2 = Intent(this@SignupActivity, MainActivity::class.java)
             startActivity(intent2)
         }
     }
+
 
 }
