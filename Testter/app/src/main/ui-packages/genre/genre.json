@@ -1,0 +1,4480 @@
+{
+  "name": "genre",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "ds6sEWUzqagU3I7przsmRx",
+    "node": "250:1334",
+    "version": "3606735238",
+    "component-id": "c6415220bbb8b38870850bd6479c4bdaf2bd1113"
+  },
+  "default": "Genre",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "group",
+        "id": "Group 30"
+      },
+      {
+        "type": "group",
+        "id": "Group 25"
+      },
+      {
+        "type": "text",
+        "id": "PERON"
+      },
+      {
+        "type": "group",
+        "id": "Group 65"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 4"
+      },
+      {
+        "type": "group",
+        "id": "items"
+      },
+      {
+        "type": "group",
+        "id": "Genre Menu"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 2"
+      },
+      {
+        "type": "text",
+        "id": "Search"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 18"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "group",
+        "id": "Group 31"
+      },
+      {
+        "type": "text",
+        "id": "Genre"
+      },
+      {
+        "type": "group",
+        "id": "Item 1"
+      },
+      {
+        "type": "group",
+        "id": "Item 2"
+      },
+      {
+        "type": "group",
+        "id": "Item 3"
+      },
+      {
+        "type": "group",
+        "id": "Item 4"
+      },
+      {
+        "type": "group",
+        "id": "Item 5"
+      },
+      {
+        "type": "group",
+        "id": "Item 6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 21"
+      },
+      {
+        "type": "image",
+        "id": "joyride-run-flyknit-running-shoe-sqfqGQ 1"
+      },
+      {
+        "type": "text",
+        "id": "Judulnya"
+      },
+      {
+        "type": "group",
+        "id": "Group 32"
+      },
+      {
+        "type": "text",
+        "id": "desc:"
+      },
+      {
+        "type": "text",
+        "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada"
+      },
+      {
+        "type": "group",
+        "id": "Item 7"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 22"
+      },
+      {
+        "type": "image",
+        "id": "joyride-run-flyknit-running-shoe-sqfqGQ 2"
+      },
+      {
+        "type": "text",
+        "id": "Judulnya1"
+      },
+      {
+        "type": "group",
+        "id": "Group 33"
+      },
+      {
+        "type": "text",
+        "id": "desc:1"
+      },
+      {
+        "type": "text",
+        "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada1"
+      },
+      {
+        "type": "group",
+        "id": "Item 8"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 23"
+      },
+      {
+        "type": "image",
+        "id": "joyride-run-flyknit-running-shoe-sqfqGQ 3"
+      },
+      {
+        "type": "text",
+        "id": "Judulnya2"
+      },
+      {
+        "type": "group",
+        "id": "Group 34"
+      },
+      {
+        "type": "text",
+        "id": "desc:2"
+      },
+      {
+        "type": "text",
+        "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada2"
+      },
+      {
+        "type": "group",
+        "id": "Item 9"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 24"
+      },
+      {
+        "type": "image",
+        "id": "joyride-run-flyknit-running-shoe-sqfqGQ 4"
+      },
+      {
+        "type": "text",
+        "id": "Judulnya3"
+      },
+      {
+        "type": "group",
+        "id": "Group 35"
+      },
+      {
+        "type": "text",
+        "id": "desc:3"
+      },
+      {
+        "type": "text",
+        "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada3"
+      },
+      {
+        "type": "group",
+        "id": "Item 10"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 25"
+      },
+      {
+        "type": "image",
+        "id": "joyride-run-flyknit-running-shoe-sqfqGQ 5"
+      },
+      {
+        "type": "text",
+        "id": "Judulnya4"
+      },
+      {
+        "type": "group",
+        "id": "Group 36"
+      },
+      {
+        "type": "text",
+        "id": "desc:4"
+      },
+      {
+        "type": "text",
+        "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 26"
+      },
+      {
+        "type": "group",
+        "id": "Genre1"
+      },
+      {
+        "type": "group",
+        "id": "Group 37"
+      },
+      {
+        "type": "group",
+        "id": "Group 45"
+      },
+      {
+        "type": "group",
+        "id": "Group 53"
+      },
+      {
+        "type": "group",
+        "id": "Group 43"
+      },
+      {
+        "type": "group",
+        "id": "Group 46"
+      },
+      {
+        "type": "group",
+        "id": "Group 54"
+      },
+      {
+        "type": "group",
+        "id": "Group 40"
+      },
+      {
+        "type": "group",
+        "id": "Group 47"
+      },
+      {
+        "type": "group",
+        "id": "Group 55"
+      },
+      {
+        "type": "group",
+        "id": "Group 61"
+      },
+      {
+        "type": "group",
+        "id": "Group 44"
+      },
+      {
+        "type": "group",
+        "id": "Group 48"
+      },
+      {
+        "type": "group",
+        "id": "Group 56"
+      },
+      {
+        "type": "group",
+        "id": "Group 62"
+      },
+      {
+        "type": "group",
+        "id": "Group 38"
+      },
+      {
+        "type": "group",
+        "id": "Group 49"
+      },
+      {
+        "type": "group",
+        "id": "Group 57"
+      },
+      {
+        "type": "group",
+        "id": "Group 41"
+      },
+      {
+        "type": "group",
+        "id": "Group 50"
+      },
+      {
+        "type": "group",
+        "id": "Group 58"
+      },
+      {
+        "type": "group",
+        "id": "Group 63"
+      },
+      {
+        "type": "group",
+        "id": "Group 39"
+      },
+      {
+        "type": "group",
+        "id": "Group 51"
+      },
+      {
+        "type": "group",
+        "id": "Group 59"
+      },
+      {
+        "type": "group",
+        "id": "Group 42"
+      },
+      {
+        "type": "group",
+        "id": "Group 52"
+      },
+      {
+        "type": "group",
+        "id": "Group 60"
+      },
+      {
+        "type": "group",
+        "id": "Group 64"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 27"
+      },
+      {
+        "type": "text",
+        "id": "Romance"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 28"
+      },
+      {
+        "type": "text",
+        "id": "Romance1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 29"
+      },
+      {
+        "type": "text",
+        "id": "Romance2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 30"
+      },
+      {
+        "type": "text",
+        "id": "Romance3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 31"
+      },
+      {
+        "type": "text",
+        "id": "Romance4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 32"
+      },
+      {
+        "type": "text",
+        "id": "Romance5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 33"
+      },
+      {
+        "type": "text",
+        "id": "Romance6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 34"
+      },
+      {
+        "type": "text",
+        "id": "Romance7"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 35"
+      },
+      {
+        "type": "text",
+        "id": "Romance8"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 36"
+      },
+      {
+        "type": "text",
+        "id": "Romance9"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 37"
+      },
+      {
+        "type": "text",
+        "id": "Romance10"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 38"
+      },
+      {
+        "type": "text",
+        "id": "Romance11"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 39"
+      },
+      {
+        "type": "text",
+        "id": "Romance12"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 40"
+      },
+      {
+        "type": "text",
+        "id": "Romance13"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 41"
+      },
+      {
+        "type": "text",
+        "id": "Comedy"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 42"
+      },
+      {
+        "type": "text",
+        "id": "Comedy1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 43"
+      },
+      {
+        "type": "text",
+        "id": "Comedy2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 44"
+      },
+      {
+        "type": "text",
+        "id": "Comedy3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 45"
+      },
+      {
+        "type": "text",
+        "id": "Comedy4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 46"
+      },
+      {
+        "type": "text",
+        "id": "Comedy5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 47"
+      },
+      {
+        "type": "text",
+        "id": "Comedy6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 48"
+      },
+      {
+        "type": "text",
+        "id": "Fantasy"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 49"
+      },
+      {
+        "type": "text",
+        "id": "Fantasy1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 50"
+      },
+      {
+        "type": "text",
+        "id": "Fantasy2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 51"
+      },
+      {
+        "type": "text",
+        "id": "Fantasy3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 52"
+      },
+      {
+        "type": "text",
+        "id": "Fantasy4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 53"
+      },
+      {
+        "type": "text",
+        "id": "Fantasy5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 54"
+      },
+      {
+        "type": "text",
+        "id": "Fantasy6"
+      }
+    ],
+    "modes": {
+      "Genre": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Vector",
+              "Group 30",
+              "Group 25",
+              "PERON",
+              "Group 65",
+              "Vector 4",
+              "items",
+              "Genre Menu"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "24.0",
+              "top": "65.0",
+              "right": "372.0",
+              "bottom": "819.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Group 30",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "365.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "56.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "29.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "29.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector1",
+              "Ellipse 2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 25",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "66.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "94.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "282.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Search",
+              "Rectangle 18",
+              "Vector2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "PERON",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "66.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "56.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "128.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "PERON",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "letter-spacing": "5.199999809265137",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group 65",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "33.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "167.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "74.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector3",
+              "Group 31"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "189.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "382.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.0"
+              }
+            }
+          },
+          {
+            "id": "items",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "50.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "221.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "718.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Item 1",
+              "Item 2",
+              "Item 3",
+              "Item 4",
+              "Item 5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Genre Menu",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "187.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "292.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "180.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 26",
+              "Genre1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "7.0",
+              "top": "6.0",
+              "right": "6.0",
+              "bottom": "7.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Ellipse 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "29.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "29.0"
+              }
+            },
+            "vector-content": "ellipse_2.svg"
+          },
+          {
+            "id": "Search",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "10.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "1.4345703125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "65.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.695556640625"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "Search",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "13.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 18",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "282.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "vector-content": "rectangle_18.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "259.0",
+              "top": "9.0",
+              "right": "9.0",
+              "bottom": "10.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "60.0",
+              "top": "6.0",
+              "bottom": "5.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Group 31",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Genre"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Genre",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Genre",
+            "overflow": "visible",
+            "text-size": "13.0",
+            "letter-spacing": "1.7000000476837158",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Item 1",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "11.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Item 6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Item 2",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "11.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "150.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Item 7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Item 3",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "11.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "300.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Item 8"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Item 4",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "11.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "450.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Item 9"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Item 5",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "11.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "600.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Item 10"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Item 6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 21",
+              "joyride-run-flyknit-running-shoe-sqfqGQ 1",
+              "Judulnya",
+              "Group 32"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 21",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "161.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "153.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "vector-content": "rectangle_21.svg"
+          },
+          {
+            "id": "joyride-run-flyknit-running-shoe-sqfqGQ 1",
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "image-content": "joyride_run_flyknit_running_shoe_sqfq_gq_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Judulnya",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "80.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "92.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Judulnya",
+            "overflow": "visible",
+            "text-align": "right",
+            "text-size": "16.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group 32",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "179.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "14.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "desc:",
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "desc:",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "desc:",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "15.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada ",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Item 7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 22",
+              "joyride-run-flyknit-running-shoe-sqfqGQ 2",
+              "Judulnya1",
+              "Group 33"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 22",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "161.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "153.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "vector-content": "rectangle_22.svg"
+          },
+          {
+            "id": "joyride-run-flyknit-running-shoe-sqfqGQ 2",
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "image-content": "joyride_run_flyknit_running_shoe_sqfq_gq_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Judulnya1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "80.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "92.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Judulnya",
+            "overflow": "visible",
+            "text-align": "right",
+            "text-size": "16.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group 33",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "179.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "14.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "desc:1",
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "desc:1",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "desc:",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "15.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada ",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Item 8",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 23",
+              "joyride-run-flyknit-running-shoe-sqfqGQ 3",
+              "Judulnya2",
+              "Group 34"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 23",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "161.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "153.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "vector-content": "rectangle_23.svg"
+          },
+          {
+            "id": "joyride-run-flyknit-running-shoe-sqfqGQ 3",
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "image-content": "joyride_run_flyknit_running_shoe_sqfq_gq_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Judulnya2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "80.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "92.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Judulnya",
+            "overflow": "visible",
+            "text-align": "right",
+            "text-size": "16.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group 34",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "179.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "14.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "desc:2",
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "desc:2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "desc:",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "15.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada ",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Item 9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 24",
+              "joyride-run-flyknit-running-shoe-sqfqGQ 4",
+              "Judulnya3",
+              "Group 35"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 24",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "161.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "153.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "vector-content": "rectangle_24.svg"
+          },
+          {
+            "id": "joyride-run-flyknit-running-shoe-sqfqGQ 4",
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "image-content": "joyride_run_flyknit_running_shoe_sqfq_gq_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Judulnya3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "80.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "92.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Judulnya",
+            "overflow": "visible",
+            "text-align": "right",
+            "text-size": "16.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group 35",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "179.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "14.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "desc:3",
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "desc:3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "desc:",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "15.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada ",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Item 10",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "314.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 25",
+              "joyride-run-flyknit-running-shoe-sqfqGQ 5",
+              "Judulnya4",
+              "Group 36"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 25",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "161.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "153.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "vector-content": "rectangle_25.svg"
+          },
+          {
+            "id": "joyride-run-flyknit-running-shoe-sqfqGQ 5",
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              }
+            },
+            "image-content": "joyride_run_flyknit_running_shoe_sqfq_gq_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Judulnya4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "80.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "92.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Judulnya",
+            "overflow": "visible",
+            "text-align": "right",
+            "text-size": "16.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group 36",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "179.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "14.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "desc:4",
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "desc:4",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "desc:",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "15.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "117.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.6666666666666667",
+              "value": "1.0"
+            },
+            "text-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id elit vitae massa consectetur malesuada ",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "10.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 26",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "292.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "180.0"
+              }
+            },
+            "vector-content": "rectangle_26.svg"
+          },
+          {
+            "id": "Genre1",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "9.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "268.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Group 37",
+              "Group 45",
+              "Group 53",
+              "Group 43",
+              "Group 46",
+              "Group 54",
+              "Group 40",
+              "Group 47",
+              "Group 55",
+              "Group 61",
+              "Group 44",
+              "Group 48",
+              "Group 56",
+              "Group 62",
+              "Group 38",
+              "Group 49",
+              "Group 57",
+              "Group 41",
+              "Group 50",
+              "Group 58",
+              "Group 63",
+              "Group 39",
+              "Group 51",
+              "Group 59",
+              "Group 42",
+              "Group 52",
+              "Group 60",
+              "Group 64"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 37",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "136.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 27",
+              "Romance"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 45",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "136.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "48.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 28",
+              "Romance1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 53",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "136.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "96.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 29",
+              "Romance2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 43",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "204.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 30",
+              "Romance3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 46",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "204.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "48.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 31",
+              "Romance4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 54",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "204.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "96.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 32",
+              "Romance5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 40",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "136.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "24.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 33",
+              "Romance6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 47",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "136.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "72.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 34",
+              "Romance7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 55",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "136.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "120.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 35",
+              "Romance8"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 61",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "136.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "144.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 36",
+              "Romance9"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 44",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "204.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "24.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 37",
+              "Romance10"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 48",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "204.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "72.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 38",
+              "Romance11"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 56",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "204.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "120.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 39",
+              "Romance12"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 62",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "204.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "144.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 40",
+              "Romance13"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 38",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "68.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 41",
+              "Comedy"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 49",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "68.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "48.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 42",
+              "Comedy1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 57",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "68.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "96.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 43",
+              "Comedy2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 41",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "68.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "24.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 44",
+              "Comedy3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 50",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "68.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "72.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 45",
+              "Comedy4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 58",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "68.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "120.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 46",
+              "Comedy5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 63",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "68.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "144.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 47",
+              "Comedy6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 39",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 48",
+              "Fantasy"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 51",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "48.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 49",
+              "Fantasy1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 59",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "96.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 50",
+              "Fantasy2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 42",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "24.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 51",
+              "Fantasy3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 52",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "72.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 52",
+              "Fantasy4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 60",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "120.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 53",
+              "Fantasy5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 64",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "2.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "144.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 54",
+              "Fantasy6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 27",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_27.svg"
+          },
+          {
+            "id": "Romance",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 28",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_28.svg"
+          },
+          {
+            "id": "Romance1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 29",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_29.svg"
+          },
+          {
+            "id": "Romance2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 30",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_30.svg"
+          },
+          {
+            "id": "Romance3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 31",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_31.svg"
+          },
+          {
+            "id": "Romance4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 32",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_32.svg"
+          },
+          {
+            "id": "Romance5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 33",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_33.svg"
+          },
+          {
+            "id": "Romance6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 34",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_34.svg"
+          },
+          {
+            "id": "Romance7",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 35",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_35.svg"
+          },
+          {
+            "id": "Romance8",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 36",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_36.svg"
+          },
+          {
+            "id": "Romance9",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 37",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_37.svg"
+          },
+          {
+            "id": "Romance10",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 38",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_38.svg"
+          },
+          {
+            "id": "Romance11",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 39",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_39.svg"
+          },
+          {
+            "id": "Romance12",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 40",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_40.svg"
+          },
+          {
+            "id": "Romance13",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Romance",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 41",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_41.svg"
+          },
+          {
+            "id": "Comedy",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Comedy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 42",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_42.svg"
+          },
+          {
+            "id": "Comedy1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Comedy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 43",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_43.svg"
+          },
+          {
+            "id": "Comedy2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Comedy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 44",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_44.svg"
+          },
+          {
+            "id": "Comedy3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Comedy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 45",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_45.svg"
+          },
+          {
+            "id": "Comedy4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Comedy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 46",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_46.svg"
+          },
+          {
+            "id": "Comedy5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Comedy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 47",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_47.svg"
+          },
+          {
+            "id": "Comedy6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Comedy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 48",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_48.svg"
+          },
+          {
+            "id": "Fantasy",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Fantasy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 49",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_49.svg"
+          },
+          {
+            "id": "Fantasy1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Fantasy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 50",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_50.svg"
+          },
+          {
+            "id": "Fantasy2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Fantasy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 51",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_51.svg"
+          },
+          {
+            "id": "Fantasy3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Fantasy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 52",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_52.svg"
+          },
+          {
+            "id": "Fantasy4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Fantasy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 53",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_53.svg"
+          },
+          {
+            "id": "Fantasy5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Fantasy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 54",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_54.svg"
+          },
+          {
+            "id": "Fantasy6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Fantasy",
+            "overflow": "visible",
+            "text-size": "8.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Genre",
+      "size": {
+        "width": 414.0,
+        "height": 896.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
