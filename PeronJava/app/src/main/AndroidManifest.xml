@@ -17,7 +17,7 @@
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
-            android:label="Book Library"
+            android:label="Peron"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
