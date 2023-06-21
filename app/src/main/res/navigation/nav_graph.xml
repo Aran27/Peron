@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.peron.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_signupFragment2"
+            app:destination="@id/signupFragment2" />
+        <action
+            android:id="@+id/action_loginFragment_to_homepageFragment4"
+            app:destination="@id/homepageFragment4" />
+    </fragment>
+    <fragment
+        android:id="@+id/historyFragment5"
+        android:name="com.example.peron.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" >
+        <action
+            android:id="@+id/action_historyFragment5_to_profileFragment4"
+            app:destination="@id/profileFragment4" />
+        <action
+            android:id="@+id/action_historyFragment5_to_bookDescFragment"
+            app:destination="@id/bookDescFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signupFragment2"
+        android:name="com.example.peron.SignupFragment"
+        android:label="fragment_signup"
+        tools:layout="@layout/fragment_signup" />
+    <fragment
+        android:id="@+id/homepageFragment4"
+        android:name="com.example.peron.HomepageFragment"
+        android:label="homepage"
+        tools:layout="@layout/fragment_homepage" >
+        <action
+            android:id="@+id/action_homepageFragment4_to_profileFragment4"
+            app:destination="@id/profileFragment4" />
+        <action
+            android:id="@+id/action_homepageFragment4_to_historyFragment5"
+            app:destination="@id/historyFragment5" />
+        <action
+            android:id="@+id/action_homepageFragment4_to_bookDescFragment"
+            app:destination="@id/bookDescFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment4"
+        android:name="com.example.peron.ProfileFragment"
+        android:label="profile"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/action_profileFragment4_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookContentFragment"
+        android:name="com.example.peron.BookContentFragment"
+        android:label="fragment_book_content"
+        tools:layout="@layout/fragment_book_content" />
+    <fragment
+        android:id="@+id/bookDescFragment"
+        android:name="com.example.peron.BookDescFragment"
+        android:label="fragment_book_desc"
+        tools:layout="@layout/fragment_book_desc" >
+        <action
+            android:id="@+id/action_bookDescFragment_to_bookContentFragment"
+            app:destination="@id/bookContentFragment" />
+        <action
+            android:id="@+id/action_bookDescFragment_to_historyFragment5"
+            app:destination="@id/historyFragment5" />
+        <action
+            android:id="@+id/action_bookDescFragment_to_profileFragment4"
+            app:destination="@id/profileFragment4" />
+    </fragment>
+</navigation>

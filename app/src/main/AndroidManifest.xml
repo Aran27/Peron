@@ -21,10 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SignupActivity"/>
-        <activity android:name=".Homepage"/>
-        <activity android:name=".Profile"/>
-        <activity android:name=".History"/>
+        <activity android:name=".SignupFragment"/>
+        <activity android:name=".HomepageFragment"/>
+        <activity android:name=".ProfileFragment"/>
+        <activity android:name=".HistoryFragment"/>
 
         <meta-data
             android:name="preloaded_fonts"

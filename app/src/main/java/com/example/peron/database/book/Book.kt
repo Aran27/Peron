@@ -7,11 +7,17 @@ import androidx.room.PrimaryKey
 @Entity(tableName = "book")
 data class Book (
     @PrimaryKey(autoGenerate = true)
-    val id : Int = 0,
+    val id : Int,
 
     @ColumnInfo(name = "book_title")
     val bookTitle : String,
 
     @ColumnInfo(name = "book_genre")
-    val bookGenre: String
+    val bookGenre: String,
+
+    @ColumnInfo(name = "book_desc")
+    val bookDesc: String,
+
+    @ColumnInfo(name = "book_content")
+    val bookContent: String
 )
