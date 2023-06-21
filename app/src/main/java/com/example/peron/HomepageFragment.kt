@@ -13,26 +13,6 @@ import com.example.peron.viewmodels.BookViewModel
 import com.example.peron.viewmodels.BookViewModelFactory
 
 class HomepageFragment : Fragment() {
-//    private lateinit var account: AppCompatImageView
-//    private lateinit var menu: AppCompatImageView
-//
-//    override fun onCreate(savedInstanceState: Bundle?) {
-//        super.onCreate(savedInstanceState)
-//        setContentView(R.layout.homepage)
-//
-//        account = findViewById(R.id.account_home)
-//
-//        account.setOnClickListener {
-//            val intent = Intent(this@HomepageFragment, ProfileFragment::class.java)
-//            startActivity(intent)
-//        }
-//
-//        menu = findViewById(R.id.menu_list)
-//        menu.setOnClickListener{
-//            val intent3 = Intent(this@HomepageFragment,HistoryFragment::class.java )
-//            startActivity(intent3)
-//        }
-//    }
 
     private val viewModel: BookViewModel by activityViewModels {
         BookViewModelFactory(
@@ -56,7 +36,7 @@ class HomepageFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         val adapter = BookListAdapter {
-            val action = HomepageFragmentDirections.actionHomepageFragment4ToBookDescFragment(it.id)
+            val action = HomepageFragmentDirections.actionHomepageFragment4ToBookDescFragment()
             this.findNavController().navigate(action)
         }
         binding.recyclerView.layoutManager = LinearLayoutManager(this.context)

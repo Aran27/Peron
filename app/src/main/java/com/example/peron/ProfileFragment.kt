@@ -17,28 +17,6 @@ import com.example.peron.viewmodels.UserViewModel
 import com.example.peron.viewmodels.UserViewModelFactory
 
 class ProfileFragment : Fragment() {
-//    private lateinit var back_arrow: AppCompatImageView
-//    private lateinit var logout: AppCompatImageView
-//
-//    override fun onCreate(savedInstanceState: Bundle?) {
-//        super.onCreate(savedInstanceState)
-//        setContentView(R.layout.fragment_profile)
-//
-//
-//        logout = findViewById(R.id.logout)
-//
-//        logout.setOnClickListener {
-//            val intent = Intent(this@ProfileFragment, MainActivity::class.java)
-//            startActivity(intent)
-//        }
-//
-//        back_arrow = findViewById(R.id.arrow_back)
-//
-//        back_arrow.setOnClickListener {
-//            val intent2 = Intent(this@ProfileFragment, HomepageFragment::class.java)
-//            startActivity(intent2)
-//        }
-//    }
 
     private val viewModel: UserViewModel by activityViewModels {
         UserViewModelFactory(

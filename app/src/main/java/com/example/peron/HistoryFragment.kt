@@ -17,28 +17,6 @@ import com.example.peron.viewmodels.BookViewModel
 import com.example.peron.viewmodels.BookViewModelFactory
 
 class HistoryFragment : Fragment() {
-//    private lateinit var back_arrow: AppCompatImageView
-//    private lateinit var account: AppCompatImageView
-//
-//    override fun onCreate(savedInstanceState: Bundle?) {
-//        super.onCreate(savedInstanceState)
-//        setContentView(R.layout.fragment_history)
-//
-//
-//        back_arrow = findViewById(R.id.arrow_back_history)
-//
-//        back_arrow.setOnClickListener {
-//            val intent = Intent(this@HistoryFragment, HomepageFragment::class.java)
-//            startActivity(intent)
-//        }
-//
-//        account = findViewById(R.id.account_history)
-//
-//        account.setOnClickListener {
-//            val intent2 = Intent(this@HistoryFragment, ProfileFragment::class.java)
-//            startActivity(intent2)
-//        }
-//    }
 
     private val viewModel: BookViewModel by activityViewModels {
         BookViewModelFactory(

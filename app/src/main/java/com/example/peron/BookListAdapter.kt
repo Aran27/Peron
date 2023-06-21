@@ -25,11 +25,11 @@ class BookListAdapter(private val onItemClicked: (Book) -> Unit) :
     }
 
     override fun onBindViewHolder(holder: BookViewHolder, position: Int) {
-        val current = Book.getBooks(position)
-        holder.itemView.setOnClickListener {
-            onItemClicked(current)
-        }
-        holder.bind(current)
+//        val current = getBooks(position)
+//        holder.itemView.setOnClickListener {
+//            onItemClicked(current)
+//        }
+//        holder.bind(current)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): BookViewHolder {
